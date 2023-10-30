@@ -1,5 +1,5 @@
 var api = [{ code: 123 }, { code: 123 }, { code: 123 }];
-
+console.log("Hello")
 var keytNAw3h26MVkMXZ = "demo_promotion_detail";
 var promotionsPromotionDetail =
   typeof fundiin != "undefined" && fundiin.promotions != "undefined"
